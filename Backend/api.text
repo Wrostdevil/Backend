@@ -1,0 +1,23 @@
+API-application programming interface->connects frontend with the express.
+
+Types of API by architechtural style and protocol
+=>rest API
+soap
+RPC
+graphql
+web socket
+
+
+
+
+http methods in server:
+    GET'
+    POST
+    PATCH
+    DELETE
+
+
+
+Status codes:
+200=Get request successful
+201=Post request successful

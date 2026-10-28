@@ -1,0 +1,3 @@
+npm init -y ->uses for initiating a node server.
+For server creation express package is a great option. so use
+npm i express
